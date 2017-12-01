@@ -1,17 +1,17 @@
 ## Placar Taekwondo Mobile
 
-Código original feito por: Isaac Melo
+CÃ³digo original feito por: Isaac Melo
 
 ## Code 
 
-Angular
+Angular.js
 
-## Pontuações
+## PontuaÃ§Ãµes
 
-- Chute na cabeça vale 3 pontos
+- Chute na cabeÃ§a vale 3 pontos
 - Chute no tronco vale 1 ponto
 
-## Possíveis implementações
+## PossÃ­veis implementaÃ§Ãµes
 
 - Adicionar faltas
 - Adcionar rounds
